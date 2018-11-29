@@ -4,3 +4,5 @@ Git is free software distributed under the GPL.
 ```
 
 change name and email
+
+not add git
