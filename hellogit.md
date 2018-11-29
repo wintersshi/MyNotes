@@ -3,6 +3,4 @@ Git is a distributed version control system.
 Git is free software distributed under the GPL.
 ```
 
-change name and email
-
-not add git
+该文档只是用于学习git。
